@@ -10,7 +10,7 @@ knowlege of both git and github. It is also such a rewarding project to undertak
 in the process and stregnthens whatever knowledge you had on the topic. 
 
 ### Files used
-.gitignore, project_3.py
+.gitignore, project_3.py, README.md
 
 ### Credits
 https://github.com/udacity/pdsnd_github
