@@ -49,7 +49,7 @@ def get_filters():
 
     print("\n\nLet's explore some US bikeshare data!\n")
 
-    print("Type end at any time if you would like to exit the program.\n")
+    print("To leave the program, type exit.\n")
 
     while True:
         city = choice("\nFor what city(ies) do you want do select data, "
