@@ -133,7 +133,7 @@ def load_data(city, month, day):
 def time_stats(df):
     """Display statistics on the most frequent times of travel."""
 
-    print('\nDisplaying the statistics on the most frequent times of '
+    print('\nStatistics on the most frequent times of '
           'travel...\n')
     start_time = time.time()
 
@@ -324,7 +324,7 @@ def main():
 
         mark_place = 0
         while True:
-            select_data = choice("\nPlease select the information you would "
+            select_data = choice("\nWhat information you would "
                                  "like to obtain.\n\n [ts] Time Stats\n [ss] "
                                  "Station Stats\n [tds] Trip Duration Stats\n "
                                  "[us] User Stats\n [rd] Display Raw Data\n "
